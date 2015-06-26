@@ -1,2 +1,2 @@
 # Javascript-RSS-Reader
-RSS Reader using javascript and PHP also including CSS Bootstrap
+RSS Reader using Javascript, jQuery, PHP and MySQL, also including CSS Bootstrap
